@@ -24,4 +24,4 @@
 
 ---
 
-    > “¡La programación es el medio de hacer tus ideas realidad!”
+> “¡La programación es el medio de hacer tus ideas realidad!”
