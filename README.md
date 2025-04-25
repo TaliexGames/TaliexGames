@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy TaliexGames
 
-<!--
-**TaliexGames/TaliexGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 **Software Developer** & **Game Developer**  
+💻 **Trabajando:** Python, C#, Unreal Engine, Blender
+🌱 **Aprendiendo:** Web Development, Unreal Engine, Blender  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Títulos y Certificaciones
+
+| 🎖️ Título                             | 🏫 Institución      | 📅 Año |
+|---------------------------------------|--------------------|-------|
+| Ingeniería en informática                | Escuela Universitaria Politécnica de Teruel   | 2017 - 2022  |
+| Máster universitario en diseño y programación de videojuegos     | Universidad Oberta de Catalunya             | 2022 - 2023  |
+| Premio "Pilotando el futuro"              | Colegio profesional de ingenieros Téc en información y graduados en Ingeniería informática de Aragón           | 2022  |
+
+---
+
+### 🌐 Sígueme
+
+- 🔗 [GitHub](https://github.com/TaliexGames)   
+- 🎮 [Web](https://alsatiangames.es)  
+
+---
+
+> “Convierte tus ideas en código… ¡y tus líneas de código en juegos!”
