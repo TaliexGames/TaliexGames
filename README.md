@@ -1,7 +1,7 @@
 ## 👋 ¡Hola! Soy TaliexGames
 
 🔭 **Software Developer** & **Game Developer**  
-💻 **Trabajando:** Python, C#, Unreal Engine, Blender
+💻 **Trabajando:** Python, C#, Unreal Engine, Blender, React
 🌱 **Aprendiendo:** Web Development, Unreal Engine, Blender  
 
 ---
