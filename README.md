@@ -11,7 +11,6 @@
 | 🎖️ Título                             | 🏫 Institución      | 📅 Año |
 |---------------------------------------|--------------------|-------|
 | Ingeniería en informática                | Escuela Universitaria Politécnica de Teruel   | 2017 - 2022  |
-Catalunya             | 2022 - 2023  |
 | Premio "Pilotando el futuro"              | Colegio profesional de ingenieros Téc en información y graduados en Ingeniería informática de Aragón           | 2022  |
 | Máster universitario en diseño y programación de videojuegos     | Universidad Oberta de Catalunya | 2022 - 2023
 | Cursos sobre unreal engine 5          | Udemy          | 2025  |
